@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f265d5c6b5dff00448478b8c34729756, type: 3}
+  m_Name: ChipConfig
+  m_EditorClassIdentifier: 
+  _chipPrefab: {fileID: 7954263607530636812, guid: 613c616a216ea9144b4de480e43d1744, type: 3}
+  _chipsSprites:
+  - {fileID: 21300000, guid: 95ccbbb35d78bdb4fa56565d823e465c, type: 3}
+  - {fileID: 21300000, guid: 143f0678f37cff2438e25bd4ae885820, type: 3}
+  - {fileID: 21300000, guid: 2f71d1f861123b74aaeb64fddb6b52ff, type: 3}
+  - {fileID: 21300000, guid: eb91ff32a6ba1ef4d92b5c486a53931b, type: 3}
+  - {fileID: 21300000, guid: a20b736913ec4cb458271158458a3889, type: 3}
+  - {fileID: 21300000, guid: 6ba64ef8825d08245b0178f428ce1de5, type: 3}

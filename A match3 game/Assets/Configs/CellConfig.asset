@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f44833d41d8974b4382d06d14d0ca507, type: 3}
+  m_Name: CellConfig
+  m_EditorClassIdentifier: 
+  _glass1: {fileID: 21300000, guid: 00d165b3eb1317d49b3b589430de2583, type: 3}
+  _glass2: {fileID: 21300000, guid: 4cf64f3e15933c54c9f4315864eed22b, type: 3}
+  _cellPrefab: {fileID: 609412236, guid: 594ae8505dd322747b8e2e97fabfdff5, type: 3}
